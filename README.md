@@ -1,2 +1,2 @@
 # an-market
-notebooks for market analysis
+notebooks for securities analysis
